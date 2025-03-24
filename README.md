@@ -1,4 +1,4 @@
-**Project Name:** **Book Bank Management System**
+**Project Name:** **E-book library application**
 
 **Technologies Used:** MERN Stack (MongoDB, Express.js, React.js, Node.js)
 
